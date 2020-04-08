@@ -31,7 +31,7 @@ A new window should open on local host, allowing for the input of files.
 ## Authors
 **Jake-Breaks-Stuff**
 
-## Aknowledgments
+## Acknowledgements
 **Anthony from PrettyPrinted** with his [youtube video](https://www.youtube.com/watch?v=7gqvV4tUxmY)
 
 
